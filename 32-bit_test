@@ -1,0 +1,2 @@
+system_profiler SPApplicationsDataType | grep -B 6 -A 2
+"(Intel): No" > ~/Desktop/non64bit.txt
